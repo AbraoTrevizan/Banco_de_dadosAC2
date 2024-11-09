@@ -34,7 +34,7 @@ VALUES ('22.123.234-8', 'Dino da Silva Sauro', 'Rua Joaquim Silveira, 34', 'Jd. 
 
 -- 6 da 2 O cliente “Rafael Nunes Sales” mudou para a Rua Guilherme Orlando, 333 no
 -- jardim Santa Rosália e seu novo telefone é 1532145543, realizar as alterações no
- seu registro.
+-- seu registro.
  UPDATE cliente
  SET endereco = 'Rua Guilherme Orlando, 333', 
     bairro = 'Jardim Santa Rosália', 
